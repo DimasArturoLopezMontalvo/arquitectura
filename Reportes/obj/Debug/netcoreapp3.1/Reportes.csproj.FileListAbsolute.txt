@@ -1,0 +1,14 @@
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\bin\Debug\netcoreapp3.1\Reportes.exe
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\bin\Debug\netcoreapp3.1\Reportes.deps.json
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\bin\Debug\netcoreapp3.1\Reportes.runtimeconfig.json
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\bin\Debug\netcoreapp3.1\Reportes.runtimeconfig.dev.json
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\bin\Debug\netcoreapp3.1\Reportes.dll
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\bin\Debug\netcoreapp3.1\Reportes.pdb
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\obj\Debug\netcoreapp3.1\Reportes.csproj.AssemblyReference.cache
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\obj\Debug\netcoreapp3.1\Reportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\obj\Debug\netcoreapp3.1\Reportes.AssemblyInfoInputs.cache
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\obj\Debug\netcoreapp3.1\Reportes.AssemblyInfo.cs
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\obj\Debug\netcoreapp3.1\Reportes.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\obj\Debug\netcoreapp3.1\Reportes.dll
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\obj\Debug\netcoreapp3.1\Reportes.pdb
+C:\Users\Arturo Montalvo\source\repos\Reportes\Reportes\obj\Debug\netcoreapp3.1\Reportes.genruntimeconfig.cache
